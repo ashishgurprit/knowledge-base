@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/stripe/openapi",
+  "owner": "stripe",
+  "repo": "openapi",
+  "fetched_at": "2026-03-04T02:05:28.273236+00:00",
+  "description": "An OpenAPI specification for the Stripe API.        ",
+  "stars": 463,
+  "language": "",
+  "topics": [],
+  "homepage": "",
+  "license": "MIT",
+  "default_branch": "master",
+  "archived": false,
+  "size_kb": 894318,
+  "dirs_crawled": [
+    "actions",
+    "actions/approve",
+    "actions/enable-auto-merge",
+    "actions/notify-release",
+    "actions/notify-slack",
+    "actions/stripe-mock",
+    "latest",
+    "openapi",
+    "openapi/upcoming-changes",
+    "preview"
+  ],
+  "readmes_found": [
+    "latest",
+    "openapi",
+    "openapi/upcoming-changes",
+    "preview"
+  ]
+}

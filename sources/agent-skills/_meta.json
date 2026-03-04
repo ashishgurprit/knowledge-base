@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/WordPress/agent-skills",
+  "owner": "WordPress",
+  "repo": "agent-skills",
+  "fetched_at": "2026-03-04T07:46:08.021555+00:00",
+  "description": "Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices",
+  "stars": 797,
+  "language": "JavaScript",
+  "topics": [],
+  "homepage": "",
+  "license": "NOASSERTION",
+  "default_branch": "trunk",
+  "archived": false,
+  "size_kb": 168,
+  "dirs_crawled": [
+    "docs",
+    "eval",
+    "eval/harness",
+    "eval/scenarios",
+    "shared",
+    "shared/references",
+    "shared/scripts",
+    "skills",
+    "skills/wordpress-router",
+    "skills/wp-abilities-api",
+    "skills/wp-block-development",
+    "skills/wp-block-themes",
+    "skills/wp-interactivity-api",
+    "skills/wp-performance",
+    "skills/wp-phpstan",
+    "skills/wp-playground",
+    "skills/wp-plugin-development",
+    "skills/wp-project-triage",
+    "skills/wp-rest-api",
+    "skills/wp-wpcli-and-ops",
+    "skills/wpds"
+  ],
+  "readmes_found": [
+    "eval/scenarios"
+  ]
+}

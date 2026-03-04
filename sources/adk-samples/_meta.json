@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/google/adk-samples",
+  "owner": "google",
+  "repo": "adk-samples",
+  "fetched_at": "2026-03-04T01:57:02.787098+00:00",
+  "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
+  "stars": 8561,
+  "language": "Python",
+  "topics": [
+    "adk",
+    "agent-samples",
+    "agents"
+  ],
+  "homepage": "https://google.github.io/adk-docs/",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 173869,
+  "dirs_crawled": [
+    "go",
+    "go/agents",
+    "java",
+    "java/agents",
+    "python",
+    "python/agents",
+    "python/notebooks",
+    "typescript",
+    "typescript/agents"
+  ],
+  "readmes_found": [
+    "go",
+    "java",
+    "python",
+    "python/agents",
+    "typescript"
+  ]
+}

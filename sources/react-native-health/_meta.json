@@ -1,0 +1,35 @@
+{
+  "url": "https://github.com/agencyenterprise/react-native-health",
+  "owner": "agencyenterprise",
+  "repo": "react-native-health",
+  "fetched_at": "2026-03-04T02:28:25.038656+00:00",
+  "description": "A React Native package to interact with Apple HealthKit",
+  "stars": 1126,
+  "language": "Objective-C",
+  "topics": [
+    "apple-healthkit",
+    "fitness",
+    "health",
+    "healthkit",
+    "ios",
+    "react-native"
+  ],
+  "homepage": "",
+  "license": "MIT",
+  "default_branch": "master",
+  "archived": false,
+  "size_kb": 2869,
+  "dirs_crawled": [
+    "RCTAppleHealthKit.xcodeproj",
+    "RCTAppleHealthKit",
+    "docs",
+    "example",
+    "example/android",
+    "example/ios",
+    "src",
+    "src/constants"
+  ],
+  "readmes_found": [
+    "docs"
+  ]
+}

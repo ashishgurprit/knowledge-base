@@ -1,0 +1,48 @@
+{
+  "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+  "owner": "Azure-Samples",
+  "repo": "azure-search-openai-demo",
+  "fetched_at": "2026-03-04T01:38:35.993559+00:00",
+  "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.",
+  "stars": 7591,
+  "language": "Python",
+  "topics": [
+    "ai-azd-templates",
+    "azd-templates",
+    "azure",
+    "azure-ai-search",
+    "azurecognitivesearch",
+    "azureopenai",
+    "chatgpt",
+    "openai"
+  ],
+  "homepage": "https://azure.microsoft.com/products/search",
+  "license": "MIT",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 82712,
+  "dirs_crawled": [
+    "app",
+    "app/backend",
+    "app/frontend",
+    "app/functions",
+    "data",
+    "data/Json_Examples",
+    "data/Multimodal_Examples",
+    "docs",
+    "docs/images",
+    "evals",
+    "evals/results",
+    "evals/results_multimodal",
+    "infra",
+    "infra/app",
+    "infra/core",
+    "scripts",
+    "tests",
+    "tests/snapshots",
+    "tests/test-data"
+  ],
+  "readmes_found": [
+    "docs"
+  ]
+}

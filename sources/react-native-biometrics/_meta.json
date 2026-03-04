@@ -1,0 +1,24 @@
+{
+  "url": "https://github.com/SelfLender/react-native-biometrics",
+  "owner": "SelfLender",
+  "repo": "react-native-biometrics",
+  "fetched_at": "2026-03-04T02:28:54.956262+00:00",
+  "description": "React Native module for iOS and Android biometrics",
+  "stars": 696,
+  "language": "Java",
+  "topics": [],
+  "homepage": "",
+  "license": "MIT",
+  "default_branch": "master",
+  "archived": false,
+  "size_kb": 369,
+  "dirs_crawled": [
+    "android",
+    "android/gradle",
+    "android/src",
+    "assets",
+    "ios",
+    "ios/ReactNativeBiometrics.xcodeproj"
+  ],
+  "readmes_found": []
+}

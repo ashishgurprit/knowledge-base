@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/atlassian/atlassian-mcp-server",
+  "owner": "atlassian",
+  "repo": "atlassian-mcp-server",
+  "fetched_at": "2026-03-04T02:06:43.878400+00:00",
+  "description": "Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.",
+  "stars": 371,
+  "language": "JavaScript",
+  "topics": [],
+  "homepage": "https://www.atlassian.com/platform/remote-mcp-server",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 134,
+  "dirs_crawled": [
+    "assets",
+    "images",
+    "scripts",
+    "skills",
+    "skills/capture-tasks-from-meeting-notes",
+    "skills/generate-status-report",
+    "skills/search-company-knowledge",
+    "skills/spec-to-backlog",
+    "skills/triage-issue"
+  ],
+  "readmes_found": []
+}

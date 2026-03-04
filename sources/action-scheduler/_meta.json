@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/woocommerce/action-scheduler",
+  "owner": "woocommerce",
+  "repo": "action-scheduler",
+  "fetched_at": "2026-03-04T07:47:36.560638+00:00",
+  "description": "A scalable, traceable job queue for background processing large queues of tasks in WordPress. Specifically designed for distribution in WordPress plugins (and themes) - no server access required.",
+  "stars": 699,
+  "language": "PHP",
+  "topics": [
+    "action-scheduler",
+    "wordpress",
+    "wordpress-development"
+  ],
+  "homepage": "https://actionscheduler.org",
+  "license": "GPL-3.0",
+  "default_branch": "trunk",
+  "archived": false,
+  "size_kb": 3864,
+  "dirs_crawled": [
+    "classes",
+    "classes/WP_CLI",
+    "classes/abstracts",
+    "classes/actions",
+    "classes/data-stores",
+    "classes/migration",
+    "classes/schedules",
+    "classes/schema",
+    "deprecated",
+    "docs",
+    "docs/assets",
+    "lib",
+    "lib/cron-expression",
+    "tests",
+    "tests/bin",
+    "tests/phpunit"
+  ],
+  "readmes_found": [
+    "lib/cron-expression",
+    "tests"
+  ]
+}

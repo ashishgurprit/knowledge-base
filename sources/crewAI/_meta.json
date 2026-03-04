@@ -1,0 +1,38 @@
+{
+  "url": "https://github.com/crewAIInc/crewAI",
+  "owner": "crewAIInc",
+  "repo": "crewAI",
+  "fetched_at": "2026-03-04T01:42:38.562160+00:00",
+  "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+  "stars": 45064,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "aiagentframework",
+    "llms"
+  ],
+  "homepage": "https://crewai.com",
+  "license": "MIT",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 216116,
+  "dirs_crawled": [
+    "docs",
+    "docs/en",
+    "docs/images",
+    "docs/ko",
+    "docs/pt-BR",
+    "lib",
+    "lib/crewai-files",
+    "lib/crewai-tools",
+    "lib/crewai",
+    "lib/devtools"
+  ],
+  "readmes_found": [
+    "lib/crewai-files",
+    "lib/crewai-tools",
+    "lib/crewai"
+  ]
+}

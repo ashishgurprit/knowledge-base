@@ -1,0 +1,39 @@
+{
+  "url": "https://github.com/ossf/malicious-packages",
+  "owner": "ossf",
+  "repo": "malicious-packages",
+  "fetched_at": "2026-03-04T01:42:04.100574+00:00",
+  "description": "A repository of reports of malicious packages identified in Open Source package repositories, consumable via the Open Source Vulnerability (OSV) format.",
+  "stars": 467,
+  "language": "Go",
+  "topics": [],
+  "homepage": "",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 208512,
+  "dirs_crawled": [
+    "cmd",
+    "cmd/ingest",
+    "cmd/preprocess",
+    "cmd/stats",
+    "cmd/validate",
+    "config",
+    "docs",
+    "docs/design",
+    "docs/images",
+    "internal",
+    "internal/config",
+    "internal/gitname",
+    "internal/report",
+    "internal/reportfilter",
+    "internal/reportio",
+    "internal/source",
+    "internal/sourceio",
+    "osv",
+    "osv/malicious"
+  ],
+  "readmes_found": [
+    "osv/malicious"
+  ]
+}

@@ -1,0 +1,571 @@
+repos:
+- url: https://github.com/langchain-ai/langchain
+  owner: langchain-ai
+  repo: langchain
+  depth: 2
+  notes: LangChain core — chains, agents, retrievers
+- url: https://github.com/langchain-ai/langgraph
+  owner: langchain-ai
+  repo: langgraph
+  depth: 2
+  notes: Stateful multi-agent orchestration
+- url: https://github.com/openai/openai-cookbook
+  owner: openai
+  repo: openai-cookbook
+  depth: 2
+  notes: OpenAI API patterns, examples, guides
+- url: https://github.com/anthropics/anthropic-cookbook
+  owner: anthropics
+  repo: anthropic-cookbook
+  depth: 2
+  notes: Claude API patterns and best practices
+- url: https://github.com/microsoft/autogen
+  owner: microsoft
+  repo: autogen
+  depth: 2
+  notes: Multi-agent conversation framework
+- url: https://github.com/microsoft/promptflow
+  owner: microsoft
+  repo: promptflow
+  depth: 2
+  notes: LLM workflow and evaluation framework
+- url: https://github.com/chroma-core/chroma
+  owner: chroma-core
+  repo: chroma
+  depth: 2
+  notes: AI-native open-source embedding database
+- url: https://github.com/qdrant/qdrant-client
+  owner: qdrant
+  repo: qdrant-client
+  depth: 2
+  notes: Vector database Python client
+- url: https://github.com/run-llama/llama_index
+  owner: run-llama
+  repo: llama_index
+  depth: 2
+  notes: 'LlamaIndex: data framework for LLM apps'
+- url: https://github.com/microsoft/semantic-kernel
+  owner: microsoft
+  repo: semantic-kernel
+  depth: 2
+  notes: SDK for AI app integration (Python/.NET)
+- url: https://github.com/NirDiamant/GenAI_Agents
+  owner: NirDiamant
+  repo: GenAI_Agents
+  depth: 2
+  notes: GenAI agent tutorials and implementations
+- url: https://github.com/Shubhamsaboo/awesome-llm-apps
+  owner: Shubhamsaboo
+  repo: awesome-llm-apps
+  depth: 2
+  notes: LLM app examples with RAG and agents
+- url: https://github.com/openai/openai-agents-python
+  owner: openai
+  repo: openai-agents-python
+  depth: 2
+  notes: OpenAI Agents SDK for Python
+- url: https://github.com/FlowiseAI/Flowise
+  owner: FlowiseAI
+  repo: Flowise
+  depth: 2
+  notes: No-code LLM flow builder
+- url: https://github.com/google-gemini/generative-ai-python
+  owner: google-gemini
+  repo: generative-ai-python
+  depth: 2
+  notes: Google Gemini Python SDK
+- url: https://github.com/google-github-actions/get-gke-credentials
+  owner: google-github-actions
+  repo: get-gke-credentials
+  depth: 2
+  notes: Google agent starter pack
+- url: https://github.com/huggingface/transformers
+  owner: huggingface
+  repo: transformers
+  depth: 2
+  notes: HuggingFace Transformers — models and pipelines
+- url: https://github.com/langchain-ai/langserve
+  owner: langchain-ai
+  repo: langserve
+  depth: 2
+  notes: 'LangServe: deploy LangChain chains as REST APIs'
+- url: https://github.com/langchain-ai/langsmith-sdk
+  owner: langchain-ai
+  repo: langsmith-sdk
+  depth: 2
+  notes: LangSmith SDK for tracing and evaluation
+- url: https://github.com/bRAGAI/bRAG-langchain
+  owner: bRAGAI
+  repo: bRAG-langchain
+  depth: 2
+  notes: Better RAG patterns with LangChain
+- url: https://github.com/aws-samples/amazon-bedrock-workshop
+  owner: aws-samples
+  repo: amazon-bedrock-workshop
+  depth: 2
+  notes: AWS Bedrock workshop examples
+- url: https://github.com/Azure-Samples/azure-search-openai-demo
+  owner: Azure-Samples
+  repo: azure-search-openai-demo
+  depth: 2
+  notes: Azure OpenAI search reference app
+- url: https://github.com/microsoft/generative-ai-for-beginners
+  owner: microsoft
+  repo: generative-ai-for-beginners
+  depth: 2
+  notes: Microsoft GenAI course for beginners
+- url: https://github.com/GoogleCloudPlatform/generative-ai
+  owner: GoogleCloudPlatform
+  repo: generative-ai
+  depth: 2
+  notes: Google Cloud GenAI samples
+- url: https://github.com/GoogleCloudPlatform/vertex-ai-samples
+  owner: GoogleCloudPlatform
+  repo: vertex-ai-samples
+  depth: 2
+  notes: Google Vertex AI code samples
+- url: https://github.com/GoogleCloudPlatform/agent-starter-pack
+  owner: GoogleCloudPlatform
+  repo: agent-starter-pack
+  depth: 2
+  notes: Google Cloud agent starter pack
+- url: https://github.com/aws/aws-sdk-pandas
+  owner: aws
+  repo: aws-sdk-pandas
+  depth: 2
+  notes: AWS SDK for Pandas (formerly AWS Data Wrangler)
+- url: https://github.com/deepgram/deepgram-python-sdk
+  owner: deepgram
+  repo: deepgram-python-sdk
+  depth: 2
+  notes: Deepgram speech-to-text Python SDK
+- url: https://github.com/ossf/cve-bin-tool
+  owner: ossf
+  repo: cve-bin-tool
+  depth: 2
+- url: https://github.com/ossf/malicious-packages
+  owner: ossf
+  repo: malicious-packages
+  depth: 2
+- url: https://github.com/ossf/alpha-omega
+  owner: ossf
+  repo: alpha-omega
+  depth: 2
+- url: https://github.com/ossf/wg-best-practices-os-developers
+  owner: ossf
+  repo: wg-best-practices-os-developers
+  depth: 2
+- url: https://github.com/ossf/scorecard
+  owner: ossf
+  repo: scorecard
+  depth: 2
+- url: https://github.com/decalage2/awesome-security-hardening
+  owner: decalage2
+  repo: awesome-security-hardening
+  depth: 2
+- url: https://github.com/msitarzewski/agency-agents
+  owner: msitarzewski
+  repo: agency-agents
+  depth: 2
+- url: https://github.com/stanfordnlp/dspy
+  owner: stanfordnlp
+  repo: dspy
+  depth: 2
+  notes: Declarative prompt optimization framework
+- url: https://github.com/browser-use/browser-use
+  owner: browser-use
+  repo: browser-use
+  depth: 2
+  notes: LLM-driven web browser automation (78k stars)
+- url: https://github.com/browserbase/stagehand
+  owner: browserbase
+  repo: stagehand
+  depth: 2
+  notes: TypeScript AI browser automation with Playwright
+- url: https://github.com/cloudflare/agents
+  owner: cloudflare
+  repo: agents
+  depth: 2
+  notes: Cloudflare Durable Objects AI agents SDK
+- url: https://github.com/honojs/hono
+  owner: honojs
+  repo: hono
+  depth: 2
+  notes: Ultra-fast edge web framework for Cloudflare Workers
+- url: https://github.com/unslothai/unsloth
+  owner: unslothai
+  repo: unsloth
+  depth: 2
+  notes: 2-5x faster LLM fine-tuning, 70% less VRAM
+- url: https://github.com/HKUDS/LightRAG
+  owner: HKUDS
+  repo: LightRAG
+  depth: 2
+  notes: Graph-based RAG with knowledge graph retrieval
+- url: https://github.com/crewAIInc/crewAI
+  owner: crewAIInc
+  repo: crewAI
+  depth: 2
+  notes: Role-based multi-agent orchestration (44k stars)
+- url: https://github.com/infiniflow/ragflow
+  owner: infiniflow
+  repo: ragflow
+  depth: 2
+  notes: Enterprise RAG with deep document understanding
+- url: https://github.com/jxnl/instructor
+  owner: jxnl
+  repo: instructor
+  depth: 2
+  notes: Schema-first structured LLM output extraction
+- url: https://github.com/dottxt-ai/outlines
+  owner: dottxt-ai
+  repo: outlines
+  depth: 2
+  notes: Constrained structured text generation from LLMs
+- url: https://github.com/n8n-io/n8n
+  owner: n8n-io
+  repo: n8n
+  depth: 2
+  notes: Fair-code workflow automation with AI agent nodes
+- url: https://github.com/hiyouga/LLaMA-Factory
+  owner: hiyouga
+  repo: LLaMA-Factory
+  depth: 2
+  notes: Unified fine-tuning for 100+ LLMs via web UI or CLI
+- url: https://github.com/FlagOpen/FlagEmbedding
+  owner: FlagOpen
+  repo: FlagEmbedding
+  depth: 2
+  notes: BAAI BGE embeddings — multilingual RAG retrieval
+- url: https://github.com/simular-ai/Agent-S
+  owner: simular-ai
+  repo: Agent-S
+  depth: 2
+  notes: Open computer-use agent beating OpenAI Operator
+- url: https://github.com/QwenLM/Qwen2.5-VL
+  owner: QwenLM
+  repo: Qwen2.5-VL
+  depth: 2
+  notes: Qwen vision-language model for video/doc understanding
+- url: https://github.com/guidance-ai/guidance
+  owner: guidance-ai
+  repo: guidance
+  depth: 2
+  notes: Constrained generation with guaranteed structured output
+- url: https://github.com/Skyvern-AI/skyvern
+  owner: Skyvern-AI
+  repo: skyvern
+  depth: 2
+  notes: LLM + vision agent for browser workflows
+- url: https://github.com/google/adk-python
+  owner: google
+  repo: adk-python
+  depth: 2
+  notes: Google Agent Development Kit — code-first Python AI agents
+- url: https://github.com/google/adk-samples
+  owner: google
+  repo: adk-samples
+  depth: 2
+  notes: Sample agents built with Google ADK
+- url: https://github.com/google/adk-js
+  owner: google
+  repo: adk-js
+  depth: 2
+  notes: Google ADK TypeScript toolkit for AI agents
+- url: https://github.com/awslabs/mcp
+  owner: awslabs
+  repo: mcp
+  depth: 2
+  notes: Official MCP Servers for AWS services
+- url: https://github.com/awslabs/amazon-bedrock-agentcore-samples
+  owner: awslabs
+  repo: amazon-bedrock-agentcore-samples
+  depth: 2
+  notes: Amazon Bedrock AgentCore production samples
+- url: https://github.com/awslabs/graphrag-toolkit
+  owner: awslabs
+  repo: graphrag-toolkit
+  depth: 2
+  notes: Python toolkit for graph-enhanced GenAI (GraphRAG)
+- url: https://github.com/aws-samples/bedrock-engineer
+  owner: aws-samples
+  repo: bedrock-engineer
+  depth: 2
+  notes: Universal AI Agent on Amazon Bedrock
+- url: https://github.com/awslabs/llrt
+  owner: awslabs
+  repo: llrt
+  depth: 2
+  notes: Low Latency JS Runtime for serverless AI at edge
+- url: https://github.com/cloudflare/workers-sdk
+  owner: cloudflare
+  repo: workers-sdk
+  depth: 2
+  notes: Wrangler CLI and Workers SDK — official tooling
+- url: https://github.com/cloudflare/mcp-server-cloudflare
+  owner: cloudflare
+  repo: mcp-server-cloudflare
+  depth: 2
+  notes: Official MCP server for Cloudflare services
+- url: https://github.com/cloudflare/templates
+  owner: cloudflare
+  repo: templates
+  depth: 2
+  notes: Official Cloudflare Workers templates
+- url: https://github.com/cloudflare/workers-oauth-provider
+  owner: cloudflare
+  repo: workers-oauth-provider
+  depth: 2
+  notes: OAuth 2.0 provider library for Cloudflare Workers
+- url: https://github.com/cloudflare/agents-starter
+  owner: cloudflare
+  repo: agents-starter
+  depth: 2
+  notes: Starter kit for AI agents on Cloudflare
+- url: https://github.com/cloudflare/cloudflare-python
+  owner: cloudflare
+  repo: cloudflare-python
+  depth: 2
+  notes: Official Python library for the Cloudflare API
+- url: https://github.com/cloudflare/cloudflare-typescript
+  owner: cloudflare
+  repo: cloudflare-typescript
+  depth: 2
+  notes: Official TypeScript library for the Cloudflare API
+- url: https://github.com/cloudflare/skills
+  owner: cloudflare
+  repo: skills
+  depth: 2
+  notes: Skills for teaching agents to build on Cloudflare
+- url: https://github.com/cloudflare/ai
+  owner: cloudflare
+  repo: ai
+  depth: 2
+  notes: Cloudflare AI — Workers AI bindings and patterns
+- url: https://github.com/cloudflare/sandbox-sdk
+  owner: cloudflare
+  repo: sandbox-sdk
+  depth: 2
+  notes: Run sandboxed code environments on Cloudflare edge
+- url: https://github.com/stripe/stripe-python
+  owner: stripe
+  repo: stripe-python
+  depth: 2
+  notes: Official Stripe Python SDK
+- url: https://github.com/stripe/stripe-node
+  owner: stripe
+  repo: stripe-node
+  depth: 2
+  notes: Official Stripe Node.js SDK
+- url: https://github.com/stripe/react-stripe-js
+  owner: stripe
+  repo: react-stripe-js
+  depth: 2
+  notes: React components for Stripe.js and Stripe Elements
+- url: https://github.com/stripe/stripe-react-native
+  owner: stripe
+  repo: stripe-react-native
+  depth: 2
+  notes: Stripe React Native SDK
+- url: https://github.com/stripe/stripe-cli
+  owner: stripe
+  repo: stripe-cli
+  depth: 2
+  notes: Stripe CLI — webhooks, API testing, events
+- url: https://github.com/stripe/openapi
+  owner: stripe
+  repo: openapi
+  depth: 2
+  notes: OpenAPI spec for the Stripe API
+- url: https://github.com/stripe-samples/checkout-one-time-payments
+  owner: stripe-samples
+  repo: checkout-one-time-payments
+  depth: 2
+  notes: Stripe Checkout one-time payments sample
+- url: https://github.com/stripe-samples/subscription-use-cases
+  owner: stripe-samples
+  repo: subscription-use-cases
+  depth: 2
+  notes: Stripe subscriptions — fixed and usage-based billing
+- url: https://github.com/googleads/google-ads-python
+  owner: googleads
+  repo: google-ads-python
+  depth: 2
+  notes: Google Ads API Python client library
+- url: https://github.com/GoogleCloudPlatform/cloud-run-mcp
+  owner: GoogleCloudPlatform
+  repo: cloud-run-mcp
+  depth: 2
+  notes: MCP server to deploy apps to Cloud Run
+- url: https://github.com/atlassian/atlassian-mcp-server
+  owner: atlassian
+  repo: atlassian-mcp-server
+  depth: 2
+  notes: Jira and Confluence MCP server for LLM agents
+- url: https://github.com/mrousavy/react-native-vision-camera
+  owner: mrousavy
+  repo: react-native-vision-camera
+  depth: 2
+  notes: RN camera library — visual search, OCR, AI camera, frame processors
+- url: https://github.com/software-mansion/react-native-executorch
+  owner: software-mansion
+  repo: react-native-executorch
+  depth: 2
+  notes: On-device LLM/ML inference via ExecuTorch for React Native
+- url: https://github.com/mrousavy/react-native-fast-tflite
+  owner: mrousavy
+  repo: react-native-fast-tflite
+  depth: 2
+  notes: GPU-accelerated TFLite inference for React Native
+- url: https://github.com/ReactVision/viro
+  owner: ReactVision
+  repo: viro
+  depth: 2
+  notes: AR/VR framework for React Native — product viewers, spatial UI
+- url: https://github.com/agencyenterprise/react-native-health
+  owner: agencyenterprise
+  repo: react-native-health
+  depth: 2
+  notes: HealthKit + Health Connect — fitness, vitals, wearable sync
+- url: https://github.com/AppsFlyerSDK/appsflyer-react-native-plugin
+  owner: AppsFlyerSDK
+  repo: appsflyer-react-native-plugin
+  depth: 2
+  notes: AppsFlyer mobile attribution and install analytics
+- url: https://github.com/ImBIOS/RNWidget
+  owner: ImBIOS
+  repo: RNWidget
+  depth: 2
+  notes: Home screen widgets for React Native (iOS WidgetKit + Android)
+- url: https://github.com/SelfLender/react-native-biometrics
+  owner: SelfLender
+  repo: react-native-biometrics
+  depth: 2
+  notes: Face ID, Touch ID, Secure Enclave biometric auth
+- url: https://github.com/software-mansion/react-native-reanimated
+  owner: software-mansion
+  repo: react-native-reanimated
+  depth: 2
+  notes: 60fps animations, gesture-driven UI, gamification
+- url: https://github.com/expo/expo
+  owner: expo
+  repo: expo
+  depth: 2
+  notes: Expo SDK — managed workflow, EAS Build, native modules
+- url: https://github.com/software-mansion/react-native-screens
+  owner: software-mansion
+  repo: react-native-screens
+  depth: 2
+  notes: Native navigation containers for React Native
+- url: https://github.com/react-navigation/react-navigation
+  owner: react-navigation
+  repo: react-navigation
+  depth: 2
+  notes: Routing and navigation for React Native apps
+- url: https://github.com/jestjs/jest
+  owner: jestjs
+  repo: jest
+  depth: 2
+  notes: Testing framework (used for RN unit + integration tests)
+- url: https://github.com/wix/Detox
+  owner: wix
+  repo: Detox
+  depth: 2
+  notes: End-to-end testing for React Native
+- url: https://github.com/facebook/react-native
+  owner: facebook
+  repo: react-native
+  depth: 2
+  notes: React Native core framework
+- url: https://github.com/WordPress/WordPress
+  owner: WordPress
+  repo: WordPress
+  depth: 2
+- url: https://github.com/WordPress/gutenberg
+  owner: WordPress
+  repo: gutenberg
+  depth: 2
+- url: https://github.com/WordPress/wordpress-playground
+  owner: WordPress
+  repo: wordpress-playground
+  depth: 2
+- url: https://github.com/WordPress/WordPress-Coding-Standards
+  owner: WordPress
+  repo: WordPress-Coding-Standards
+  depth: 2
+- url: https://github.com/WordPress/agent-skills
+  owner: WordPress
+  repo: agent-skills
+  depth: 2
+- url: https://github.com/Automattic/wp-calypso
+  owner: Automattic
+  repo: wp-calypso
+  depth: 2
+- url: https://github.com/woocommerce/woocommerce
+  owner: woocommerce
+  repo: woocommerce
+  depth: 2
+- url: https://github.com/woocommerce/action-scheduler
+  owner: woocommerce
+  repo: action-scheduler
+  depth: 2
+- url: https://github.com/Yoast/wordpress-seo
+  owner: Yoast
+  repo: wordpress-seo
+  depth: 2
+- url: https://github.com/elementor/elementor
+  owner: elementor
+  repo: elementor
+  depth: 2
+- url: https://github.com/wp-cli/wp-cli
+  owner: wp-cli
+  repo: wp-cli
+  depth: 2
+- url: https://github.com/Automattic/jetpack
+  owner: Automattic
+  repo: jetpack
+  depth: 2
+- url: https://github.com/strapi/strapi
+  owner: strapi
+  repo: strapi
+  depth: 2
+- url: https://github.com/AdvancedCustomFields/acf
+  owner: AdvancedCustomFields
+  repo: acf
+  depth: 2
+- url: https://github.com/roots/sage
+  owner: roots
+  repo: sage
+  depth: 2
+- url: https://github.com/TryGhost/Ghost
+  owner: TryGhost
+  repo: Ghost
+  depth: 2
+- url: https://github.com/roots/bedrock
+  owner: roots
+  repo: bedrock
+  depth: 2
+- url: https://github.com/TryGhost/Casper
+  owner: TryGhost
+  repo: Casper
+  depth: 2
+- url: https://github.com/payloadcms/payload
+  owner: payloadcms
+  repo: payload
+  depth: 2
+- url: https://github.com/TryGhost/Ghost-CLI
+  owner: TryGhost
+  repo: Ghost-CLI
+  depth: 2
+- url: https://github.com/roots/trellis
+  owner: roots
+  repo: trellis
+  depth: 2
+- url: https://github.com/directus/directus
+  owner: directus
+  repo: directus
+  depth: 2
+- url: https://github.com/sanity-io/sanity
+  owner: sanity-io
+  repo: sanity
+  depth: 2

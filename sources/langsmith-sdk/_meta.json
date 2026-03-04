@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/langchain-ai/langsmith-sdk",
+  "owner": "langchain-ai",
+  "repo": "langsmith-sdk",
+  "fetched_at": "2026-03-04T01:37:52.059595+00:00",
+  "description": "LangSmith Client SDK Implementations",
+  "stars": 792,
+  "language": "Python",
+  "topics": [
+    "evaluation",
+    "language-model",
+    "observability"
+  ],
+  "homepage": "https://docs.smith.langchain.com/",
+  "license": "MIT",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 14592,
+  "dirs_crawled": [
+    "examples",
+    "js",
+    "js/internal",
+    "js/scripts",
+    "js/src",
+    "openapi",
+    "python",
+    "python/bench",
+    "python/cassettes",
+    "python/docs",
+    "python/langsmith",
+    "python/tests"
+  ],
+  "readmes_found": [
+    "js",
+    "python"
+  ]
+}

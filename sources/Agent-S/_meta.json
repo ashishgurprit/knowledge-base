@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/simular-ai/Agent-S",
+  "owner": "simular-ai",
+  "repo": "Agent-S",
+  "fetched_at": "2026-03-04T01:45:56.580652+00:00",
+  "description": "Agent S: an open agentic framework that uses computers like a human",
+  "stars": 9946,
+  "language": "Python",
+  "topics": [
+    "agent-computer-interface",
+    "ai-agents",
+    "computer-automation",
+    "computer-use",
+    "computer-use-agent",
+    "cua",
+    "grounding",
+    "gui-agents",
+    "in-context-reinforcement-learning",
+    "memory",
+    "mllm",
+    "planning",
+    "retrieval-augmented-generation"
+  ],
+  "homepage": "https://www.simular.ai",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 42255,
+  "dirs_crawled": [
+    "evaluation_sets",
+    "gui_agents",
+    "gui_agents/s1",
+    "gui_agents/s2",
+    "gui_agents/s2_5",
+    "gui_agents/s3",
+    "images",
+    "images/waa_setup",
+    "integrations",
+    "integrations/openclaw",
+    "osworld_setup",
+    "osworld_setup/s1",
+    "osworld_setup/s2",
+    "osworld_setup/s2_5",
+    "osworld_setup/s3"
+  ],
+  "readmes_found": [
+    "gui_agents/s1",
+    "integrations/openclaw"
+  ]
+}

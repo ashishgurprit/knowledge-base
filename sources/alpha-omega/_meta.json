@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ossf/alpha-omega",
+  "owner": "ossf",
+  "repo": "alpha-omega",
+  "fetched_at": "2026-03-04T01:42:16.924585+00:00",
+  "description": "Our mission is to catalyze sustainable improvements to critical open source software projects and ecosystems.",
+  "stars": 113,
+  "language": "Open Policy Agent",
+  "topics": [
+    "open-source-security",
+    "opensource",
+    "security"
+  ],
+  "homepage": "https://alpha-omega.dev",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 13964,
+  "dirs_crawled": [
+    "Outreach",
+    "Outreach/GraceHopperConf",
+    "Outreach/Mentorship Sum '23",
+    "alpha",
+    "alpha/engagements",
+    "omega",
+    "omega/analyzer",
+    "omega/fuzzing",
+    "omega/oaf"
+  ],
+  "readmes_found": [
+    "alpha",
+    "omega",
+    "omega/analyzer",
+    "omega/oaf"
+  ]
+}

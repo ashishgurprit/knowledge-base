@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/TryGhost/Casper",
+  "owner": "TryGhost",
+  "repo": "Casper",
+  "fetched_at": "2026-03-04T07:49:25.585057+00:00",
+  "description": "A classic theme for Ghost",
+  "stars": 2574,
+  "language": "CSS",
+  "topics": [
+    "blogging",
+    "ghost",
+    "ghost-theme",
+    "magazine",
+    "publishing"
+  ],
+  "homepage": "https://demo.ghost.io",
+  "license": "MIT",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 6454,
+  "dirs_crawled": [
+    "assets",
+    "assets/built",
+    "assets/css",
+    "assets/images",
+    "assets/js",
+    "partials",
+    "partials/icons"
+  ],
+  "readmes_found": []
+}

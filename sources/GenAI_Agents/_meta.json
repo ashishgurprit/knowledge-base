@@ -1,0 +1,38 @@
+{
+  "url": "https://github.com/NirDiamant/GenAI_Agents",
+  "owner": "NirDiamant",
+  "repo": "GenAI_Agents",
+  "fetched_at": "2026-03-04T01:35:07.134382+00:00",
+  "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+  "stars": 20272,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "agents",
+    "ai",
+    "genai",
+    "langchain",
+    "langgraph",
+    "llm",
+    "llms",
+    "openai",
+    "tutorials"
+  ],
+  "homepage": "",
+  "license": "NOASSERTION",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 49837,
+  "dirs_crawled": [
+    "all_agents_tutorials",
+    "all_agents_tutorials/data",
+    "all_agents_tutorials/scripts",
+    "audio",
+    "data",
+    "data/ATLAS_data",
+    "data/Taskifier data",
+    "data/grocery_management_agents_system",
+    "data/project_manager_assistant",
+    "images"
+  ],
+  "readmes_found": []
+}

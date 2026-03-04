@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
+  "owner": "GoogleCloudPlatform",
+  "repo": "agent-starter-pack",
+  "fetched_at": "2026-03-04T01:40:29.906187+00:00",
+  "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+  "stars": 5863,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "gcp",
+    "gemini",
+    "genai-agents",
+    "generative-ai",
+    "llmops",
+    "mlops",
+    "observability"
+  ],
+  "homepage": "https://googlecloudplatform.github.io/agent-starter-pack/",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 35692,
+  "dirs_crawled": [
+    "agent_starter_pack",
+    "agent_starter_pack/agents",
+    "agent_starter_pack/base_templates",
+    "agent_starter_pack/cli",
+    "agent_starter_pack/deployment_targets",
+    "agent_starter_pack/frontends",
+    "agent_starter_pack/resources",
+    "agent_starter_pack/sample_data",
+    "agent_starter_pack/utils",
+    "docs",
+    "docs/agents",
+    "docs/cli",
+    "docs/guide",
+    "docs/images",
+    "docs/remote-templates",
+    "tests",
+    "tests/cicd",
+    "tests/cli",
+    "tests/fixtures",
+    "tests/integration",
+    "tests/unit",
+    "tests/utils"
+  ],
+  "readmes_found": [
+    "agent_starter_pack/agents",
+    "tests/unit"
+  ]
+}

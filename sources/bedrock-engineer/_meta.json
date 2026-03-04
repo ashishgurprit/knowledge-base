@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/aws-samples/bedrock-engineer",
+  "owner": "aws-samples",
+  "repo": "bedrock-engineer",
+  "fetched_at": "2026-03-04T01:59:15.507561+00:00",
+  "description": "Universal AI Agent using Amazon Bedrock, capable of customize to create/edit files, execute commands, search the web, use knowledge base, use multi-agents, generative images and more.",
+  "stars": 464,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai",
+    "aws",
+    "bedrock",
+    "claude",
+    "deepseek-r1",
+    "generative-ai",
+    "llm",
+    "rag"
+  ],
+  "homepage": "https://speakerdeck.com/gawa/introducing-bedrock-engineer-en",
+  "license": "MIT-0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 25798,
+  "dirs_crawled": [
+    "assets",
+    "docs",
+    "docs/agent-directory-organization",
+    "docs/custom-model-import",
+    "docs/inference-profile",
+    "docs/mcp-server",
+    "docs/windows-on-ec2",
+    "src",
+    "src/common",
+    "src/main",
+    "src/preload",
+    "src/renderer",
+    "src/test",
+    "src/types"
+  ],
+  "readmes_found": [
+    "docs/agent-directory-organization",
+    "docs/custom-model-import",
+    "docs/windows-on-ec2"
+  ]
+}

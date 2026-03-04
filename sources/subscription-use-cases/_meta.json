@@ -1,0 +1,38 @@
+{
+  "url": "https://github.com/stripe-samples/subscription-use-cases",
+  "owner": "stripe-samples",
+  "repo": "subscription-use-cases",
+  "fetched_at": "2026-03-04T02:06:00.907283+00:00",
+  "description": "Create subscriptions with fixed prices or usage based billing.",
+  "stars": 897,
+  "language": "JavaScript",
+  "topics": [
+    "stripe",
+    "stripe-billing"
+  ],
+  "homepage": "https://stripe.com/docs/billing",
+  "license": "MIT",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 5840,
+  "dirs_crawled": [
+    "fixed-price-subscriptions",
+    "fixed-price-subscriptions/client",
+    "fixed-price-subscriptions/server",
+    "spec",
+    "usage-based-subscriptions-legacy",
+    "usage-based-subscriptions-legacy/client",
+    "usage-based-subscriptions-legacy/server",
+    "usage-based-subscriptions",
+    "usage-based-subscriptions/client",
+    "usage-based-subscriptions/server"
+  ],
+  "readmes_found": [
+    "fixed-price-subscriptions",
+    "fixed-price-subscriptions/server",
+    "usage-based-subscriptions-legacy",
+    "usage-based-subscriptions-legacy/server",
+    "usage-based-subscriptions",
+    "usage-based-subscriptions/server"
+  ]
+}

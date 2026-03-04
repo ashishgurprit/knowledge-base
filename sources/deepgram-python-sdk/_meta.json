@@ -1,0 +1,42 @@
+{
+  "url": "https://github.com/deepgram/deepgram-python-sdk",
+  "owner": "deepgram",
+  "repo": "deepgram-python-sdk",
+  "fetched_at": "2026-03-04T01:41:06.915918+00:00",
+  "description": "Official Python SDK for Deepgram.",
+  "stars": 403,
+  "language": "Python",
+  "topics": [
+    "asr",
+    "automated-speech-recognition",
+    "deepgram",
+    "python",
+    "speech-recognition",
+    "speech-to-text",
+    "text-to-speech",
+    "voice-agent",
+    "voice-ai"
+  ],
+  "homepage": "https://developers.deepgram.com",
+  "license": "MIT",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 20355,
+  "dirs_crawled": [
+    "docs",
+    "examples",
+    "examples/fixtures",
+    "examples/listen",
+    "src",
+    "src/deepgram",
+    "tests",
+    "tests/custom",
+    "tests/manual",
+    "tests/utils",
+    "tests/wire",
+    "wiremock"
+  ],
+  "readmes_found": [
+    "examples"
+  ]
+}

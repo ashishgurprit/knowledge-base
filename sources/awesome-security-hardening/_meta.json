@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/decalage2/awesome-security-hardening",
+  "owner": "decalage2",
+  "repo": "awesome-security-hardening",
+  "fetched_at": "2026-03-04T01:43:12.262614+00:00",
+  "description": "A collection of awesome security hardening guides, tools and other resources",
+  "stars": 6199,
+  "language": "",
+  "topics": [
+    "awesome-list",
+    "best-practices",
+    "blue-team",
+    "blueteam",
+    "cis-benchmarks",
+    "computer-security",
+    "cyber-security",
+    "cybersecurity",
+    "infosec",
+    "linux-hardening",
+    "security",
+    "security-hardening",
+    "security-tools",
+    "windows-hardening"
+  ],
+  "homepage": "",
+  "license": "",
+  "default_branch": "master",
+  "archived": false,
+  "size_kb": 131,
+  "dirs_crawled": [],
+  "readmes_found": []
+}

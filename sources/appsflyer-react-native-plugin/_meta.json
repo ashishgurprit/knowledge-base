@@ -1,0 +1,39 @@
+{
+  "url": "https://github.com/AppsFlyerSDK/appsflyer-react-native-plugin",
+  "owner": "AppsFlyerSDK",
+  "repo": "appsflyer-react-native-plugin",
+  "fetched_at": "2026-03-04T02:28:38.822976+00:00",
+  "description": " AppsFlyer plugin for React Native",
+  "stars": 318,
+  "language": "JavaScript",
+  "topics": [
+    "appsflyer",
+    "react-native",
+    "sdk"
+  ],
+  "homepage": "",
+  "license": "MIT",
+  "default_branch": "master",
+  "archived": false,
+  "size_kb": 66488,
+  "dirs_crawled": [
+    "Docs",
+    "Docs/assets",
+    "PurchaseConnector",
+    "PurchaseConnector/constants",
+    "PurchaseConnector/models",
+    "PurchaseConnector/utils",
+    "android",
+    "android/src",
+    "demos",
+    "demos/appsflyer-expo-app",
+    "demos/appsflyer-react-native-app",
+    "expo",
+    "ios",
+    "ios/RNAppsFlyer.xcodeproj"
+  ],
+  "readmes_found": [
+    "demos/appsflyer-expo-app",
+    "demos/appsflyer-react-native-app"
+  ]
+}

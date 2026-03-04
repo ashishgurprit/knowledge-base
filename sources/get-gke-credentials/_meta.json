@@ -1,0 +1,29 @@
+{
+  "url": "https://github.com/google-github-actions/get-gke-credentials",
+  "owner": "google-github-actions",
+  "repo": "get-gke-credentials",
+  "fetched_at": "2026-03-04T01:36:44.055146+00:00",
+  "description": "A GitHub Action that configure authentication to a GKE cluster.",
+  "stars": 120,
+  "language": "TypeScript",
+  "topics": [
+    "actions",
+    "gcp",
+    "github-actions",
+    "gke",
+    "google-cloud",
+    "google-cloud-platform",
+    "google-kubernetes-engine",
+    "kubernetes"
+  ],
+  "homepage": "https://cloud.google.com/gke",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 4544,
+  "dirs_crawled": [
+    "src",
+    "tests"
+  ],
+  "readmes_found": []
+}

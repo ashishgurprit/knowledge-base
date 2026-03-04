@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/cloudflare/cloudflare-typescript",
+  "owner": "cloudflare",
+  "repo": "cloudflare-typescript",
+  "fetched_at": "2026-03-04T02:01:53.796398+00:00",
+  "description": "The official TypeScript library for the Cloudflare API",
+  "stars": 660,
+  "language": "TypeScript",
+  "topics": [
+    "api",
+    "cloudflare",
+    "sdk",
+    "sdk-typescript"
+  ],
+  "homepage": "https://developers.cloudflare.com/api",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 22430,
+  "dirs_crawled": [
+    "bin",
+    "examples",
+    "examples/ai",
+    "examples/workers",
+    "scripts",
+    "scripts/utils",
+    "src",
+    "src/internal",
+    "src/lib",
+    "src/resources",
+    "src/shims",
+    "tests",
+    "tests/api-resources",
+    "tests/qs"
+  ],
+  "readmes_found": []
+}

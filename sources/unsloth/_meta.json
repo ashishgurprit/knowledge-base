@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/unslothai/unsloth",
+  "owner": "unslothai",
+  "repo": "unsloth",
+  "fetched_at": "2026-03-04T01:42:03.225430+00:00",
+  "description": "Fine-tuning & Reinforcement Learning for LLMs. \ud83e\udda5 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
+  "stars": 53128,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "deepseek",
+    "deepseek-r1",
+    "fine-tuning",
+    "gemma",
+    "gemma3",
+    "gpt-oss",
+    "llama",
+    "llama3",
+    "llm",
+    "llms",
+    "mistral",
+    "openai",
+    "qwen",
+    "qwen3",
+    "reinforcement-learning",
+    "text-to-speech",
+    "tts",
+    "unsloth",
+    "voice-cloning"
+  ],
+  "homepage": "https://unsloth.ai/docs",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 9866,
+  "dirs_crawled": [
+    "images",
+    "scripts",
+    "tests",
+    "tests/qlora",
+    "tests/saving",
+    "tests/utils",
+    "unsloth",
+    "unsloth/dataprep",
+    "unsloth/kernels",
+    "unsloth/models",
+    "unsloth/registry",
+    "unsloth/utils"
+  ],
+  "readmes_found": [
+    "tests/qlora"
+  ]
+}

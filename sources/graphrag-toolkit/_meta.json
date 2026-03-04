@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/awslabs/graphrag-toolkit",
+  "owner": "awslabs",
+  "repo": "graphrag-toolkit",
+  "fetched_at": "2026-03-04T01:59:00.449705+00:00",
+  "description": "Python toolkit for building graph-enhanced GenAI applications",
+  "stars": 364,
+  "language": "Python",
+  "topics": [
+    "amazon-neptune",
+    "amazon-opensearch-serverless",
+    "graph-database",
+    "graphrag",
+    "llama-index",
+    "mcp",
+    "postgresql"
+  ],
+  "homepage": "",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 78654,
+  "dirs_crawled": [
+    "byokg-rag",
+    "byokg-rag/src",
+    "docs",
+    "docs/byokg-rag",
+    "docs/lexical-graph",
+    "examples",
+    "examples/byokg-rag",
+    "examples/lexical-graph-hybrid-dev",
+    "examples/lexical-graph-local-dev",
+    "examples/lexical-graph",
+    "images",
+    "lexical-graph-contrib",
+    "lexical-graph-contrib/falkordb",
+    "lexical-graph",
+    "lexical-graph/src",
+    "lexical-graph/tests"
+  ],
+  "readmes_found": [
+    "byokg-rag",
+    "docs",
+    "docs/byokg-rag",
+    "docs/lexical-graph",
+    "examples",
+    "examples/lexical-graph-hybrid-dev",
+    "examples/lexical-graph-local-dev",
+    "examples/lexical-graph",
+    "lexical-graph"
+  ]
+}

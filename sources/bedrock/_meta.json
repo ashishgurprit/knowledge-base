@@ -1,0 +1,29 @@
+{
+  "url": "https://github.com/roots/bedrock",
+  "owner": "roots",
+  "repo": "bedrock",
+  "fetched_at": "2026-03-04T07:49:23.021061+00:00",
+  "description": "WordPress boilerplate with Composer, easier configuration, and an improved folder structure",
+  "stars": 6483,
+  "language": "PHP",
+  "topics": [
+    "bedrock",
+    "composer",
+    "php",
+    "wordpress",
+    "wordpress-boilerplate",
+    "wordpress-starter"
+  ],
+  "homepage": "https://roots.io/bedrock/",
+  "license": "MIT",
+  "default_branch": "master",
+  "archived": false,
+  "size_kb": 929,
+  "dirs_crawled": [
+    "config",
+    "config/environments",
+    "web",
+    "web/app"
+  ],
+  "readmes_found": []
+}

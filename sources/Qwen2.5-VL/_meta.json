@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/QwenLM/Qwen2.5-VL",
+  "owner": "QwenLM",
+  "repo": "Qwen2.5-VL",
+  "fetched_at": "2026-03-04T01:46:23.307046+00:00",
+  "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+  "stars": 18479,
+  "language": "Jupyter Notebook",
+  "topics": [],
+  "homepage": "",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 138076,
+  "dirs_crawled": [
+    "cookbooks",
+    "cookbooks/assets",
+    "cookbooks/utils",
+    "docker",
+    "evaluation",
+    "evaluation/MathVision",
+    "evaluation/ODinW-13",
+    "evaluation/RealWorldQA",
+    "evaluation/VideoMME",
+    "evaluation/mmmu",
+    "qwen-vl-finetune",
+    "qwen-vl-finetune/demo",
+    "qwen-vl-finetune/qwenvl",
+    "qwen-vl-finetune/scripts",
+    "qwen-vl-finetune/tools",
+    "qwen-vl-utils",
+    "qwen-vl-utils/src"
+  ],
+  "readmes_found": [
+    "evaluation/MathVision",
+    "evaluation/ODinW-13",
+    "evaluation/RealWorldQA",
+    "evaluation/VideoMME",
+    "evaluation/mmmu",
+    "qwen-vl-finetune",
+    "qwen-vl-utils"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://github.com/WordPress/wordpress-playground",
+  "owner": "WordPress",
+  "repo": "wordpress-playground",
+  "fetched_at": "2026-03-04T07:45:40.366977+00:00",
+  "description": "Run WordPress in the browser via WebAssembly PHP",
+  "stars": 1885,
+  "language": "JavaScript",
+  "topics": [
+    "emscripten",
+    "wasm",
+    "webassembly",
+    "wordpress"
+  ],
+  "homepage": "https://w.org/playground/",
+  "license": "GPL-2.0",
+  "default_branch": "trunk",
+  "archived": false,
+  "size_kb": 12042422,
+  "dirs_crawled": [
+    "packages",
+    "packages/bun-extensions",
+    "packages/docs",
+    "packages/meta",
+    "packages/nx-extensions",
+    "packages/php-wasm",
+    "packages/playground",
+    "packages/vite-extensions",
+    "tools",
+    "tools/scripts"
+  ],
+  "readmes_found": [
+    "packages/nx-extensions"
+  ]
+}
