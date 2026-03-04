@@ -569,3 +569,11 @@ repos:
   owner: sanity-io
   repo: sanity
   depth: 2
+- url: https://github.com/wix/headless-templates
+  owner: wix
+  repo: headless-templates
+  depth: 2
+- url: https://github.com/wix/velo-external-db
+  owner: wix
+  repo: velo-external-db
+  depth: 2
