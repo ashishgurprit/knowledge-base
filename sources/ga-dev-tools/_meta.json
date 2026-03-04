@@ -1,0 +1,35 @@
+{
+  "url": "https://github.com/googleanalytics/ga-dev-tools",
+  "owner": "googleanalytics",
+  "repo": "ga-dev-tools",
+  "fetched_at": "2026-03-04T23:56:33.253444+00:00",
+  "description": "A showcase of demos and tools built with the various Google Analytics APIs and Libraries.",
+  "stars": 1513,
+  "language": "TypeScript",
+  "topics": [],
+  "homepage": "https://ga-dev-tools.web.app/",
+  "license": "NOASSERTION",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 8463,
+  "dirs_crawled": [
+    "data",
+    "data/images",
+    "functions",
+    "functions/src",
+    "gatsby",
+    "lib",
+    "lib/scripts",
+    "src",
+    "src/components",
+    "src/hooks",
+    "src/images",
+    "src/pages",
+    "src/styles",
+    "src/test-utils",
+    "src/types"
+  ],
+  "readmes_found": [
+    "functions"
+  ]
+}

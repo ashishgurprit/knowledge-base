@@ -1,0 +1,21 @@
+{
+  "url": "https://github.com/googleanalytics/google-analytics-mcp",
+  "owner": "googleanalytics",
+  "repo": "google-analytics-mcp",
+  "fetched_at": "2026-03-04T23:56:21.728576+00:00",
+  "description": "",
+  "stars": 1390,
+  "language": "Python",
+  "topics": [],
+  "homepage": "",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 61,
+  "dirs_crawled": [
+    "analytics_mcp",
+    "analytics_mcp/tools",
+    "tests"
+  ],
+  "readmes_found": []
+}

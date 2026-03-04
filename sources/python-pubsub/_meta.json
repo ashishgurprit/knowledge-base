@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/googleapis/python-pubsub",
+  "owner": "googleapis",
+  "repo": "python-pubsub",
+  "fetched_at": "2026-03-04T23:56:38.083526+00:00",
+  "description": "",
+  "stars": 430,
+  "language": "Python",
+  "topics": [],
+  "homepage": "",
+  "license": "Apache-2.0",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 6818,
+  "dirs_crawled": [
+    "docs",
+    "docs/pubsub",
+    "google",
+    "google/cloud",
+    "google/pubsub",
+    "google/pubsub_v1",
+    "samples",
+    "samples/generated_samples",
+    "samples/snippets",
+    "scripts",
+    "scripts/readme-gen",
+    "testing",
+    "tests",
+    "tests/unit"
+  ],
+  "readmes_found": [
+    "docs",
+    "samples/snippets",
+    "scripts/readme-gen"
+  ]
+}

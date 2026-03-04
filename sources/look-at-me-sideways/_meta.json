@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/looker-open-source/look-at-me-sideways",
+  "owner": "looker-open-source",
+  "repo": "look-at-me-sideways",
+  "fetched_at": "2026-03-04T23:56:38.002700+00:00",
+  "description": "A style guide and linter for Looker's LookML data modeling language",
+  "stars": 137,
+  "language": "JavaScript",
+  "topics": [],
+  "homepage": "",
+  "license": "MIT",
+  "default_branch": "master",
+  "archived": false,
+  "size_kb": 12259,
+  "dirs_crawled": [
+    "docker",
+    "docker/configs",
+    "docker/docs",
+    "docs",
+    "docs/community-contributions",
+    "docs/img",
+    "docs/release-notes",
+    "docs/tools",
+    "lib",
+    "lib/custom-rule",
+    "lib/loaders",
+    "lib/message",
+    "lib/outputters",
+    "rules",
+    "rules/rules-lib",
+    "tools",
+    "tools/rule-sandbox"
+  ],
+  "readmes_found": [
+    "docker"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/googleanalytics/ga4-tutorials",
+  "owner": "googleanalytics",
+  "repo": "ga4-tutorials",
+  "fetched_at": "2026-03-04T23:56:30.088959+00:00",
+  "description": "",
+  "stars": 162,
+  "language": "HTML",
+  "topics": [],
+  "homepage": "",
+  "license": "MIT",
+  "default_branch": "main",
+  "archived": false,
+  "size_kb": 86,
+  "dirs_crawled": [
+    "src",
+    "src/public",
+    "tutorials",
+    "tutorials/1-initial-setup",
+    "tutorials/2-events",
+    "tutorials/3-custom-events",
+    "tutorials/4-consent-mode"
+  ],
+  "readmes_found": [
+    "tutorials/1-initial-setup",
+    "tutorials/2-events",
+    "tutorials/3-custom-events",
+    "tutorials/4-consent-mode"
+  ]
+}

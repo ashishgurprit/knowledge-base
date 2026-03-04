@@ -577,3 +577,39 @@ repos:
   owner: wix
   repo: velo-external-db
   depth: 2
+- url: https://github.com/googleanalytics/google-analytics-mcp
+  owner: googleanalytics
+  repo: google-analytics-mcp
+  depth: 2
+- url: https://github.com/googleanalytics/autotrack
+  owner: googleanalytics
+  repo: autotrack
+  depth: 2
+- url: https://github.com/googleanalytics/ga4-tutorials
+  owner: googleanalytics
+  repo: ga4-tutorials
+  depth: 2
+- url: https://github.com/googleanalytics/ga-dev-tools
+  owner: googleanalytics
+  repo: ga-dev-tools
+  depth: 2
+- url: https://github.com/looker-open-source/look-at-me-sideways
+  owner: looker-open-source
+  repo: look-at-me-sideways
+  depth: 2
+- url: https://github.com/googleapis/python-pubsub
+  owner: googleapis
+  repo: python-pubsub
+  depth: 2
+- url: https://github.com/googleapis/python-bigquery
+  owner: googleapis
+  repo: python-bigquery
+  depth: 2
+- url: https://github.com/looker-open-source/sdk-codegen
+  owner: looker-open-source
+  repo: sdk-codegen
+  depth: 2
+- url: https://github.com/googleapis/google-cloud-python
+  owner: googleapis
+  repo: google-cloud-python
+  depth: 2
