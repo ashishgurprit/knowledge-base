@@ -613,3 +613,35 @@ repos:
   owner: googleapis
   repo: google-cloud-python
   depth: 2
+- url: https://github.com/Shopify/shopify_app
+  owner: Shopify
+  repo: shopify_app
+  depth: 2
+- url: https://github.com/frappe/lms
+  owner: frappe
+  repo: lms
+  depth: 2
+- url: https://github.com/Shopify/cli
+  owner: Shopify
+  repo: cli
+  depth: 2
+- url: https://github.com/Shopify/theme-tools
+  owner: Shopify
+  repo: theme-tools
+  depth: 2
+- url: https://github.com/moodle/moodle
+  owner: moodle
+  repo: moodle
+  depth: 2
+- url: https://github.com/Shopify/hydrogen
+  owner: Shopify
+  repo: hydrogen
+  depth: 2
+- url: https://github.com/instructure/canvas-lms
+  owner: instructure
+  repo: canvas-lms
+  depth: 2
+- url: https://github.com/openedx/edx-platform
+  owner: openedx
+  repo: edx-platform
+  depth: 2
